@@ -1,6 +1,6 @@
 # Key-Sender-Discord-Bot
 
-Using this discord bot, you can easily send keys or anything to your users. 
+Using this discord bot, you can easily send keys to your users. 
 
 
 To run:
